@@ -1,3 +1,0 @@
-name: borkh probe (inert)
-on: workflow_dispatch
-jobs: {}
