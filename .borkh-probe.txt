@@ -1,0 +1,1 @@
+probe by Borkh 2026-10-21 — token capability check, safe to delete
